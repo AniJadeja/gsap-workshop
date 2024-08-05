@@ -42,17 +42,17 @@ This will start the development server, and you can view the application in your
 
 1. gsap.to() - Implemented in GsapTo.jsx, this section demonstrates how to animate properties of an element to a set of values.
 
-gsap.from() - Implemented in GsapFrom.jsx, this section shows how to animate properties of an element from a set of values.
+2. gsap.from() - Implemented in GsapFrom.jsx, this section shows how to animate properties of an element from a set of values.
 
-gsap.fromTo() - Implemented in GsapFromTo.jsx, this section combines gsap.from() and gsap.to() to animate properties from one set of values to another.
+3. gsap.fromTo() - Implemented in GsapFromTo.jsx, this section combines gsap.from() and gsap.to() to animate properties from one set of values to another.
 
-gsap.timeline() - Implemented in GsapTimeline.jsx, this section demonstrates how to create a sequence of animations using GSAP's timeline feature.
+4. gsap.timeline() - Implemented in GsapTimeline.jsx, this section demonstrates how to create a sequence of animations using GSAP's timeline feature.
 
-gsap.stagger() - Implemented in GsapStagger.jsx, this section shows how to stagger animations for multiple elements.
+5. gsap.stagger() - Implemented in GsapStagger.jsx, this section shows how to stagger animations for multiple elements.
 
-gsap.scrollTrigger() - Implemented in GsapScrollTrigger.jsx, this section demonstrates how to trigger animations based on scroll position.
+6. gsap.scrollTrigger() - Implemented in GsapScrollTrigger.jsx, this section demonstrates how to trigger animations based on scroll position.
 
-GsapText - Implemented in GsapText.jsx, this section showcases various text animations using GSAP methods.
+7. GsapText - Implemented in GsapText.jsx, this section showcases various text animations using GSAP methods.
 
 
 ## Author
