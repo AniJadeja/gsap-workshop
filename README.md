@@ -63,6 +63,6 @@ Date: 2023-10-05
 This project is open-source and can be used by anyone for any purpose.
 
 ## Credit
-This project was inspired by the tutorial available at:
+This project is a clone of the tutorial available at:
 [GSAP Tutorial](https://www.youtube.com/watch?v=kRQbRAJ4-Fs&t=1516s)
 
